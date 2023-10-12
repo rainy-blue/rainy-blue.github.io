@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Rainy Muse</title>
+        <link>https://rainy-blue.github.io/rainy-blue.github.io/tags/</link>
+        <description>Tags - Tag - Rainy Muse</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 21:50:55 -0400</lastBuildDate><atom:link href="https://rainy-blue.github.io/rainy-blue.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>misc</title>
+    <link>https://rainy-blue.github.io/rainy-blue.github.io/tags/misc/</link>
+    <pubDate>Wed, 27 Sep 2023 21:50:55 -0400</pubDate>
+    <author>Kevin Wu</author>
+    <guid>https://rainy-blue.github.io/rainy-blue.github.io/tags/misc/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>misc - Tag - Rainy Muse</title>
+        <link>https://rainy-blue.github.io/rainy-blue.github.io/tags/misc/</link>
+        <description>misc - Tag - Rainy Muse</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 21:50:55 -0400</lastBuildDate><atom:link href="https://rainy-blue.github.io/rainy-blue.github.io/tags/misc/" rel="self" type="application/rss+xml" /><item>
+    <title>first musings</title>
+    <link>https://rainy-blue.github.io/rainy-blue.github.io/posts/first_musings/</link>
+    <pubDate>Wed, 27 Sep 2023 21:50:55 -0400</pubDate>
+    <author>Kevin Wu</author>
+    <guid>https://rainy-blue.github.io/rainy-blue.github.io/posts/first_musings/</guid>
+    <description><![CDATA[crossing the starting line! For the longest time, the idea of starting this blog danced in the recesses of my mind, but I had never mustered the energy to get over the initial hump.
+Growing up, I was insatiably curious. Not just about the tangible and immediate around me, but about the vast expanse of the cosmos and the mysteries that lay within. Every new discovery led me into a maze of questions, diving deep into how things worked and letting my imagination roam free.]]></description>
+</item>
+</channel>
+</rss>

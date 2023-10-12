@@ -25,7 +25,14 @@ theme = 'LoveIt'
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = "Rainy Muse"
-
+  [[menu.main]]
+    weight = 2
+    identifier = "likewall"
+    pre = ""
+    post = ""
+    name = "Like Wall"
+    url = "/likewall/"
+    title = ""
 #  [[menu.main]]
 #    weight = 2
 #    identifier = "tags"
